@@ -1,10 +1,10 @@
 src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://github.com/openwrt/telephony.git
 
-src-git immortalwrt_packages https://github.com/immortalwrt/packages.git
-# src-git coolsnowwolf_packages https://github.com/coolsnowwolf/packages.git
-src-git immortalwrt_luci https://github.com/immortalwrt/luci.git
-# src-git coolsnowwolf_luci https://github.com/coolsnowwolf/luci.git
+src-git packages https://github.com/immortalwrt/packages.git
+# src-git packages https://github.com/coolsnowwolf/packages.git
+src-git luci https://github.com/immortalwrt/luci.git
+# src-git luci https://github.com/coolsnowwolf/luci.git
 
 src-git filebrowser https://github.com/immortalwrt/openwrt-filebrowser.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
