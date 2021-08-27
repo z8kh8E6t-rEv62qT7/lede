@@ -6,7 +6,6 @@ src-git immortalwrt_packages https://github.com/z8kh8E6t-rEv62qT7/packages.git
 src-git luci https://github.com/coolsnowwolf/luci.git
 src-git immortalwrt_luci https://github.com/immortalwrt/luci.git
 
-src-git vssr https://github.com/jerrykuku/luci-app-vssr.git
 src-git filebrowser https://github.com/immortalwrt/openwrt-filebrowser.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
 src-git kenzok8 https://github.com/z8kh8E6t-rEv62qT7/kenzok8-openwrt-packages.git
